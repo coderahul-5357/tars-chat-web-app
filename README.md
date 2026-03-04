@@ -12,7 +12,7 @@
 
 ## 🚀 Live Demo
 
-🔗 **[tarschat.vercel.app](https://tars-chat-web-app.vercel.app)** ← *(update with your Vercel URL)*
+🔗 **[tarschat.vercel.app](https://tars-chat-web-app.vercel.app)** 
 
 ---
 
